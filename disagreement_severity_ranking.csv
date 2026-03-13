@@ -1,0 +1,247 @@
+"Dataset","Variable","Disagreement_Count","Rejection_Count","Severity_Score"
+"auto_mpg","acceleration",2,5,10
+"breast_cancer","symmetry1",2,5,10
+"breast_cancer","texture1",2,5,10
+"breast_cancer","texture3",2,5,10
+"chronic_kidney","hemo",2,5,10
+"cirrhosis","Albumin",2,5,10
+"breast_cancer","smoothness1",2,4,8
+"breast_cancer","smoothness3",2,4,8
+"cirrhosis","Age",2,4,8
+"cirrhosis","Platelets",2,4,8
+"ionosphere","attribute10",2,4,8
+"ionosphere","attribute12",2,4,8
+"ionosphere","attribute14",2,4,8
+"ionosphere","attribute16",2,4,8
+"ionosphere","attribute18",2,4,8
+"ionosphere","attribute20",2,4,8
+"ionosphere","attribute22",2,4,8
+"ionosphere","attribute24",2,4,8
+"ionosphere","attribute26",2,4,8
+"ionosphere","attribute28",2,4,8
+"ionosphere","attribute30",2,4,8
+"ionosphere","attribute32",2,4,8
+"ionosphere","attribute34",2,4,8
+"ionosphere","attribute8",2,4,8
+"airfoil","attack_angle",1,6,6
+"airfoil","frequency",1,6,6
+"airfoil","scaled_sound_pressure",1,6,6
+"airfoil","suction_sdt",1,6,6
+"auto_mpg","displacement",1,6,6
+"auto_mpg","horsepower",1,6,6
+"auto_mpg","model year",1,6,6
+"auto_mpg","mpg",1,6,6
+"auto_mpg","weight",1,6,6
+"breast_cancer","area1",1,6,6
+"breast_cancer","area2",1,6,6
+"breast_cancer","area3",1,6,6
+"breast_cancer","compactness1",1,6,6
+"breast_cancer","compactness2",1,6,6
+"breast_cancer","compactness3",1,6,6
+"breast_cancer","concave_points1",1,6,6
+"breast_cancer","concave_points2",1,6,6
+"breast_cancer","concave_points3",1,6,6
+"breast_cancer","concavity1",1,6,6
+"breast_cancer","concavity2",1,6,6
+"breast_cancer","concavity3",1,6,6
+"breast_cancer","fractal_dimension1",1,6,6
+"breast_cancer","fractal_dimension2",1,6,6
+"breast_cancer","fractal_dimension3",1,6,6
+"breast_cancer","perimeter1",1,6,6
+"breast_cancer","perimeter2",1,6,6
+"breast_cancer","perimeter3",1,6,6
+"breast_cancer","radius1",1,6,6
+"breast_cancer","radius2",1,6,6
+"breast_cancer","radius3",1,6,6
+"breast_cancer","smoothness2",1,6,6
+"breast_cancer","symmetry2",1,6,6
+"breast_cancer","symmetry3",1,6,6
+"breast_cancer","texture2",1,6,6
+"cervical_cancer","Age",1,6,6
+"cervical_cancer","First sexual intercourse",1,6,6
+"cervical_cancer","Hormonal Contraceptives (years)",1,6,6
+"cervical_cancer","IUD (years)",1,6,6
+"cervical_cancer","Num of pregnancies",1,6,6
+"cervical_cancer","Number of sexual partners",1,6,6
+"cervical_cancer","STDs: Time since first diagnosis",1,6,6
+"cervical_cancer","STDs: Time since last diagnosis",1,6,6
+"cervical_cancer","Smokes (packs/year)",1,6,6
+"cervical_cancer","Smokes (years)",1,6,6
+"chronic_kidney","age",1,6,6
+"chronic_kidney","bgr",1,6,6
+"chronic_kidney","bp",1,6,6
+"chronic_kidney","bu",1,6,6
+"chronic_kidney","pcv",1,6,6
+"chronic_kidney","pot",1,6,6
+"chronic_kidney","rbcc",2,3,6
+"chronic_kidney","sc",1,6,6
+"chronic_kidney","sod",1,6,6
+"chronic_kidney","wbcc",1,6,6
+"cirrhosis","Alk_Phos",1,6,6
+"cirrhosis","Bilirubin",1,6,6
+"cirrhosis","Cholesterol",1,6,6
+"cirrhosis","Copper",1,6,6
+"cirrhosis","N_Days",1,6,6
+"cirrhosis","Prothrombin",1,6,6
+"cirrhosis","SGOT",1,6,6
+"garment_production","actual_productivity",1,6,6
+"garment_production","incentive",1,6,6
+"garment_production","no_of_workers",1,6,6
+"garment_production","over_time",1,6,6
+"garment_production","smv",1,6,6
+"garment_production","team",1,6,6
+"garment_production","wip",1,6,6
+"hepatitis","albumin",1,6,6
+"hepatitis","alk_phoshate",1,6,6
+"hepatitis","bilirubin",1,6,6
+"hepatitis","sgot",1,6,6
+"housing","area",1,6,6
+"housing","price",1,6,6
+"ionosphere","attribute11",1,6,6
+"ionosphere","attribute13",1,6,6
+"ionosphere","attribute15",1,6,6
+"ionosphere","attribute17",1,6,6
+"ionosphere","attribute19",1,6,6
+"ionosphere","attribute21",1,6,6
+"ionosphere","attribute23",1,6,6
+"ionosphere","attribute25",1,6,6
+"ionosphere","attribute27",1,6,6
+"ionosphere","attribute29",1,6,6
+"ionosphere","attribute3",1,6,6
+"ionosphere","attribute31",1,6,6
+"ionosphere","attribute33",1,6,6
+"ionosphere","attribute4",1,6,6
+"ionosphere","attribute5",1,6,6
+"ionosphere","attribute6",1,6,6
+"ionosphere","attribute7",1,6,6
+"ionosphere","attribute9",1,6,6
+"liver","alkphos",1,6,6
+"liver","drinks",1,6,6
+"liver","gammagt",1,6,6
+"liver","mcv",1,6,6
+"liver","sgot",1,6,6
+"liver","sgpt",1,6,6
+"minfraction","1",1,6,6
+"minfraction","100",1,6,6
+"minfraction","138",1,6,6
+"minfraction","16",1,6,6
+"minfraction","180",1,6,6
+"minfraction","4.7",1,6,6
+"minfraction","77",1,6,6
+"minfraction","8",1,6,6
+"minfraction","?.1",1,6,6
+"minfraction","?.2",1,6,6
+"minfraction","?.3",1,6,6
+"minfraction","?.4",1,6,6
+"obesity","Age",1,6,6
+"obesity","CH2O",1,6,6
+"obesity","FAF",1,6,6
+"obesity","FCVC",1,6,6
+"obesity","Height",1,6,6
+"obesity","NCP",1,6,6
+"obesity","TUE",1,6,6
+"obesity","Weight",1,6,6
+"orange_tele","Account length",2,3,6
+"orange_tele","Number vmail messages",1,6,6
+"orange_tele","Total day charge",2,3,6
+"orange_tele","Total day minutes",2,3,6
+"orange_tele","Total intl calls",1,6,6
+"orange_tele","Total intl charge",1,6,6
+"orange_tele","Total intl minutes",1,6,6
+"orange_tele","Total night calls",2,3,6
+"parkinson_disease","RPDE",2,3,6
+"student","Admission grade",1,6,6
+"student","Age at enrollment",1,6,6
+"student","Curricular units 1st sem (grade)",1,6,6
+"student","Curricular units 2nd sem (grade)",1,6,6
+"student","Father's occupation",1,6,6
+"student","Previous qualification (grade)",1,6,6
+"yeast","alm",1,6,6
+"yeast","gvh",1,6,6
+"yeast","mcg",1,6,6
+"yeast","mit",1,6,6
+"yeast","nuc",1,6,6
+"yeast","vac",1,6,6
+"adult","fnlwgt",1,5,5
+"air_quality","AH",1,5,5
+"air_quality","C6H6(GT)",1,5,5
+"air_quality","CO(GT)",1,5,5
+"air_quality","NMHC(GT)",1,5,5
+"air_quality","NO2(GT)",1,5,5
+"air_quality","NOx(GT)",1,5,5
+"air_quality","PT08.S1(CO)",1,5,5
+"air_quality","PT08.S2(NMHC)",1,5,5
+"air_quality","PT08.S3(NOx)",1,5,5
+"air_quality","PT08.S4(NO2)",1,5,5
+"air_quality","PT08.S5(O3)",1,5,5
+"air_quality","RH",1,5,5
+"air_quality","T",1,5,5
+"banking","balance",1,5,5
+"banking","duration",1,5,5
+"banking","pdays",1,5,5
+"credit_card","BILL_AMT1",1,5,5
+"credit_card","BILL_AMT2",1,5,5
+"credit_card","BILL_AMT3",1,5,5
+"credit_card","BILL_AMT4",1,5,5
+"credit_card","BILL_AMT5",1,5,5
+"credit_card","BILL_AMT6",1,5,5
+"credit_card","PAY_AMT1",1,5,5
+"credit_card","PAY_AMT2",1,5,5
+"credit_card","PAY_AMT3",1,5,5
+"credit_card","PAY_AMT4",1,5,5
+"credit_card","PAY_AMT5",1,5,5
+"credit_card","PAY_AMT6",1,5,5
+"dry_bean","Area",1,5,5
+"dry_bean","AspectRation",1,5,5
+"dry_bean","Compactness",1,5,5
+"dry_bean","ConvexArea",1,5,5
+"dry_bean","Eccentricity",1,5,5
+"dry_bean","EquivDiameter",1,5,5
+"dry_bean","Extent",1,5,5
+"dry_bean","MajorAxisLength",1,5,5
+"dry_bean","MinorAxisLength",1,5,5
+"dry_bean","Perimeter",1,5,5
+"dry_bean","ShapeFactor1",1,5,5
+"dry_bean","ShapeFactor2",1,5,5
+"dry_bean","ShapeFactor3",1,5,5
+"dry_bean","ShapeFactor4",1,5,5
+"dry_bean","roundness",1,5,5
+"gamma","fAlpha",1,5,5
+"gamma","fAsym",1,5,5
+"gamma","fConc",1,5,5
+"gamma","fConc1",1,5,5
+"gamma","fDist",1,5,5
+"gamma","fLenghth",1,5,5
+"gamma","fM3Long",1,5,5
+"gamma","fM3Trans",1,5,5
+"gamma","fSize",1,5,5
+"parkinson_disease","DFA",1,5,5
+"parkinson_disease","HNR",1,5,5
+"parkinson_disease","Jitter(%)",1,5,5
+"parkinson_disease","Jitter(Abs)",1,5,5
+"parkinson_disease","Jitter:DDP",1,5,5
+"parkinson_disease","Jitter:PPQ5",1,5,5
+"parkinson_disease","Jitter:RAP",1,5,5
+"parkinson_disease","NHR",1,5,5
+"parkinson_disease","PPE",1,5,5
+"parkinson_disease","Shimmer",1,5,5
+"parkinson_disease","Shimmer(dB)",1,5,5
+"parkinson_disease","Shimmer:APQ11",1,5,5
+"parkinson_disease","Shimmer:APQ3",1,5,5
+"parkinson_disease","Shimmer:APQ5",1,5,5
+"parkinson_disease","Shimmer:DDA",1,5,5
+"parkinson_disease","motor_UPDRS",1,5,5
+"parkinson_disease","test_time",1,5,5
+"parkinson_disease","total_UPDRS",1,5,5
+"phishing","LargestLineLength",1,5,5
+"phishing","LineOfCode",1,5,5
+"phishing","URLCharProb",1,5,5
+"phishing","URLSimilarityIndex",1,5,5
+"hepatitis","age",2,2,4
+"orange_tele","Total eve charge",2,2,4
+"orange_tele","Total eve minutes",2,2,4
+"hepatitis","protime",2,1,2
+"orange_tele","Total eve calls",2,1,2
+"orange_tele","Total day calls",1,0,0
+"orange_tele","Total night charge",1,0,0
+"orange_tele","Total night minutes",1,0,0

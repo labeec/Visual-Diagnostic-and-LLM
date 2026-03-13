@@ -1,0 +1,11 @@
+"Dataset","Missing_Count","Total_Values","Missing_Percentage"
+"adult",4262,488415,0.87
+"auto_mpg",6,3582,0.17
+"cervical_cancer",3622,30888,11.73
+"chronic_kidney",1013,10000,10.13
+"cirrhosis",1033,8360,12.36
+"energy_consumption",181853,18677331,0.97
+"garment_production",506,17955,2.82
+"hepatitis",167,3100,5.39
+"lung",5,1824,0.27
+"minfraction",15965,210676,7.58
